@@ -5,6 +5,6 @@
 
   # susanna3's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[susanna3.github.io/brantley-lab-website](https://susanna3.github.io/brantley-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
